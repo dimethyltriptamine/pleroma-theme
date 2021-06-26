@@ -1,0 +1,7 @@
+* pleroma-dark theme
+  A theme for emacs that looks like pleromafe
+
+* Installation
+  dunno
+* screenshoots
+  [[https://udongein.xyz/media/d932c8aa47461ef1e6706cb8ddcfc0e696c5bdabb0f35547ceb50569f75cade0.png][Here]]
